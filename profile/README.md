@@ -1,3 +1,5 @@
-# Genetic Medicine of African populations
+# Genetic Medicine and African populations
 
-GeneMAP-Research, supporting research at the GeneMAP Research Center with a robust infrastructure
+[GeneMAP-Research](https://wonkamlab.github.io/index.html), supporting research at the GeneMAP Research Center with a robust infrastructure.
+
+
