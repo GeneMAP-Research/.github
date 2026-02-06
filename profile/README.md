@@ -2,4 +2,4 @@
 
 GeneMAP-Research, supporting research at the GeneMAP Research Center with a robust infrastructure.
 
-GeneMAP is run the [Wonkam Lab](https://wonkamlab.github.io/index.html)
+GeneMAP is maintained by the [Wonkam Lab](https://wonkamlab.github.io/index.html)
